@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Challenge Two</string>
+  <string name="header">Challenge Two - Image List</string>
+
+  <string name="designer">Designer</string>
+  <string name="developer">Developer</string>
+    <string name="linked_in_button">LinkedIn Redirect</string>
+</resources>
